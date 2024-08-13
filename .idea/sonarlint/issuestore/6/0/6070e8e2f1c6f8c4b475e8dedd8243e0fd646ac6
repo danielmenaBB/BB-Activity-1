@@ -1,0 +1,9 @@
+
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8žä¡“’2J$48d27fc7-438e-40c8-83a8-ba033c7070fc
+Ÿ
+java:S1104"WMake description a static final constant or non-public and provide accessors if needed.(¹ÿ†ðÿÿÿÿÿ8å©¢“’2J$4edb76c8-09f6-42c5-9898-d8c5370d4fca
+™
+java:S1104"VMake categories a static final constant or non-public and provide accessors if needed.(Ü…øÀ8å©¢“’2J$e86fd579-324f-4b25-901f-186ddb70b336
+V
+java:S1220""Move this file to a named package.J$d859add0-9e5e-4615-962e-b45a6109e0e0

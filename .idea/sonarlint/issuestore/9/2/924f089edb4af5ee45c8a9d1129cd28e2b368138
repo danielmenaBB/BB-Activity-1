@@ -1,0 +1,50 @@
+
+w
+java:S3740F"/Provide the parametrized type for this generic.(‘«ÎÕùÿÿÿÿ8¨ªáÏ”2J$e2e30f99-112f-47fd-9ea8-10a48ab77f92
+]
+java:S1220""Move this file to a named package.8¬ªáÏ”2J$b391f265-0747-4ef3-a84d-f8d6caa94fa5
+m	java:S106"+Replace this use of System.out by a logger.(¾ËÎª8ŞªáÏ”2J$0cbe1218-2b4b-41ac-b97e-4cd4905b3e7d
+r	java:S106"+Replace this use of System.out by a logger.(ï²‚µûÿÿÿÿ8áªáÏ”2J$60a3df4b-f6a8-4fbb-af64-6b4034ef0aa4
+m	java:S106"+Replace this use of System.out by a logger.(ÛÛ©“8ãªáÏ”2J$84220cb8-05e5-421d-a78f-bde7e5f0bbb6
+r	java:S106"+Replace this use of System.out by a logger.(®âÇºÿÿÿÿÿ8åªáÏ”2J$481cb9fe-791c-4628-bb1f-ce03deca625d
+m	java:S106 "+Replace this use of System.out by a logger.(ï­†§8æªáÏ”2J$2e0df19c-6509-47bb-bd54-2b936635dba6
+m	java:S106$"+Replace this use of System.out by a logger.(Ñ¦¬¦8çªáÏ”2J$b9357442-2efe-4d31-aca7-87102e9b5f71
+™
+java:S4276("VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(»¾Š«8íªáÏ”2J$6fd32328-94c4-4d30-ae64-b92cb9699008
+m	java:S106*"+Replace this use of System.out by a logger.(Œø8îªáÏ”2J$abb61858-fb78-4c10-bd23-a13ec2696ba4
+
+java:S2130,"9Use "Integer.parseInt" for this string-to-int conversion.(£Ú¨Àúÿÿÿÿ8ïªáÏ”2J$c7025f45-f590-452d-bfbc-c0b26f6bb474
+r	java:S106."+Replace this use of System.out by a logger.(¾èÇØøÿÿÿÿ8ğªáÏ”2J$8e616268-5239-4930-9479-8185fa8ac242
+m	java:S1062"+Replace this use of System.out by a logger.( ıŠ8ñªáÏ”2J$1e58ea2f-895b-40c6-ad6b-667bb9fb232f
+r	java:S1066"+Replace this use of System.out by a logger.(•ÈûÄıÿÿÿÿ8òªáÏ”2J$08f6c3fa-0099-47d0-8c87-8849b383bc8b
+m	java:S106:"+Replace this use of System.out by a logger.(Ÿ°ŞÌ8óªáÏ”2J$35c40c1b-fd16-4443-8d6f-0cb943ee72c8
+r	java:S106D"+Replace this use of System.out by a logger.(€ç”¬üÿÿÿÿ8õªáÏ”2J$c4bab972-3ef0-4047-ab5c-ffcdcfa9f5ec
+r	java:S106G"+Replace this use of System.out by a logger.(ÓÙû˜øÿÿÿÿ8öªáÏ”2J$d3bb02d1-3c7c-4a68-bc8e-d8fc0ff2a0b2
+r	java:S106I"+Replace this use of System.out by a logger.(®†ëäşÿÿÿÿ8÷ªáÏ”2J$ffadbc82-b970-444b-89b4-6e9152d52b31
+m	java:S106K"+Replace this use of System.out by a logger.(Å°çõ8÷ªáÏ”2J$0f35adfe-0c41-4e6d-ac26-3f340ac457e3
+m	java:S106O"+Replace this use of System.out by a logger.(¡üñ®8øªáÏ”2J$f497f8d3-4772-4ac5-abab-b75c0cf57118
+r	java:S106S"+Replace this use of System.out by a logger.(³ëÒıÿÿÿÿ8øªáÏ”2J$9acf2212-c77a-4819-91e3-dd8f29fdc9c0
+r	java:S106U"+Replace this use of System.out by a logger.(·Æˆ¸ıÿÿÿÿ8ùªáÏ”2J$8b69707b-d087-4f37-b6f7-3631d2334a6f
+l	java:S106W"+Replace this use of System.out by a logger.(ğƒŒP8úªáÏ”2J$ad5ad813-e11f-495f-960c-fddb99b0f35a
+m	java:S106["+Replace this use of System.out by a logger.(ÿøØø8üªáÏ”2J$87cf2fd1-b881-428e-8bd5-63f501c40522
+m	java:S106]"+Replace this use of System.out by a logger.(’Ê‹Á8üªáÏ”2J$4a67e2b1-180c-4a81-853e-5e205943ffdb
+r	java:S106b"+Replace this use of System.out by a logger.(¹‹®’şÿÿÿÿ8ıªáÏ”2J$ccff72e0-e5d4-4d81-89e0-91ed9a605582
+™
+java:S3457h"Q%n should be used in place of \n to produce the platform-specific line separator.(§­Áıÿÿÿÿ8ÿªáÏ”2J$b802bc0c-5dd1-4d74-a96d-927a323b7896
+r	java:S106o"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8«áÏ”2J$dbad3bd9-acc0-4f42-a15b-d33df97d0c67
+m	java:S106s"+Replace this use of System.out by a logger.(¿À…8‚«áÏ”2J$5f4cb954-a313-44fe-8a51-259ca0ef544d
+r	java:S106t"+Replace this use of System.out by a logger.(±Ëº´úÿÿÿÿ8‚«áÏ”2J$7d3d41bf-e019-4616-9180-b06f184034f3
+r	java:S106v"+Replace this use of System.out by a logger.(±Ëº´úÿÿÿÿ8ƒ«áÏ”2J$4000f748-9ca7-4263-bc37-3c83a6b0827b
+m	java:S106{"+Replace this use of System.out by a logger.(šÚÀŞ8„«áÏ”2J$049aa425-78fc-4b32-84e9-4c68b83624c9
+m	java:S106"+Replace this use of System.out by a logger.(‹±ÊÇ8…«áÏ”2J$eb96acba-1260-4c72-a005-b4bdd7b2f806
+n	java:S106"+Replace this use of System.out by a logger.(Ç –€8†«áÏ”2J$8e35eb09-8cd1-41e8-9665-e2e4af766680
+ˆ
+java:S1858Œ"D"b" is already a string, there's no need to call "toString()" on it.(ˆ˜Ö8Š«áÏ”2J$951debc5-7c6e-4bc3-b489-1545926ecd1a
+p
+java:S1602",Remove useless curly braces around statement(èÅ8Œ«áÏ”2J$8afd4316-6cef-43ed-98ea-5074e40c9543
+s	java:S106"+Replace this use of System.out by a logger.(†ØÀóÿÿÿÿÿ8«áÏ”2J$adfede8b-376d-4047-bfb8-6846fe33dcac
+Š
+java:S1858"A"getName" returns a string, there's no need to call "toString()".(†ØÀóÿÿÿÿÿ8«áÏ”2J$5a42c927-8c6c-4a22-9b67-d7245497b18d
+n	java:S106§"+Replace this use of System.out by a logger.(à³ÿˆ8“«áÏ”2J$f16ef7e5-d586-4cc1-b984-3e689f0353f6
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8˜«áÏ”2J$61e8289c-fb1f-47dc-939e-a3175f266aea
